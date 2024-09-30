@@ -11,7 +11,8 @@
 - My most recent project to make parsing command line arguments in Java a little bit easier with a [Java_ArgsParser](https://github.com/AbUndMax/Java_ArgsParser)
 - You can find my very first coding projects in Java and Racket like a [Calculator](https://github.com/AbUndMax/JAVA-Calculator), a [cat hunting your mous game](https://github.com/AbUndMax/cat-hunts-food-Racket-Minigame) or a [Towers of Hanoi minigame](https://github.com/AbUndMax/Towers-Of-Hanoi-JavaGame)
 - But also some of my first bigger projects like an [Organizer](https://github.com/AbUndMax/Organizer-App_Java-swing)
-- And finally my first steps in Bioinformatics with a [DNA-Complementary App](https://github.com/AbUndMax/DNA-Complementary-App) up to a simple [SNV-caller](https://github.com/AbUndMax/SNVcaller)
+- My first steps in Bioinformatics with a [DNA-Complementary App](https://github.com/AbUndMax/DNA-Complementary-App), a simple [SNV-caller](https://github.com/AbUndMax/SNVcaller) or a basic [ChIP-seq peak-caller](https://github.com/AbUndMax/ChIP-seq_peak-caller).
+- Or other helpful stuff like a [CSV-Comparator](https://github.com/AbUndMax/CSVcomparator-Batch-Program) or simple [loading animations for CLI-python scirpts](https://github.com/AbUndMax/loadpy)
 
 <!---
 AbUndMax/AbUndMax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
